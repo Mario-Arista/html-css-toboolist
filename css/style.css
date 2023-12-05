@@ -108,23 +108,25 @@ h2 {
 }
 
 .check-entity {
-    height: auto;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
     color: green;
 
     border-radius: 60%;
-    border: green 2px solid;
-
-    font-size: 0.8em;
+    border: green 1px solid;
+    text-align: center;
 }
 
 .x-entity {
-    height: auto;
+    display: inline-block;
+    width: 20px;
+    height: 21px;
     color: red;
 
     border-radius: 60%;
-    border: red 2px solid;
-
-    font-size: 0.8em;
+    border: red 1px solid;
+    text-align: center;
 }
 
 h3 {
