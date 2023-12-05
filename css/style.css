@@ -43,6 +43,7 @@ h1 {
     background-color: white;
 
     margin: 0 auto;
+    margin-bottom: 2px;
 }
 
 #row-button > div {
@@ -71,4 +72,53 @@ h1 {
     color: lightgrey; 
     background-color: white;
     border: lightgrey 1px solid ;
+}
+
+/* <!-- Section with to do  --> */
+
+#row-task {
+    width: 70%;
+    height: 70%;
+
+    border-radius: 3%;
+
+    background-color: white;
+    color: #444851;
+
+    margin: 0 auto;
+    padding: 40px;
+}
+
+.title-task {
+    margin-bottom: 10px;
+}
+
+h2 {
+    display: inline;
+    font-size: 1.5em;
+}
+
+h3 {
+    display: inline;
+    font-size: 1em;
+}
+
+.argument {
+    display: inline-block;
+
+    width: 70px;
+    height: 20px;
+
+    color: white;
+
+    text-align: center;
+
+    border-radius: 15%;
+
+}
+
+.blue {
+    background-color: #45ABE9;
+    line-height: 100%;
+
 }
