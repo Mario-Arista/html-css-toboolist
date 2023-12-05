@@ -94,6 +94,10 @@ h1 {
     padding: 40px;
 }
 
+.task {
+    padding-bottom: 25px;
+}
+
 .title-task {
     margin-bottom: 10px;
 }
@@ -121,6 +125,12 @@ h3 {
 
     border-radius: 15%;
 
+    vertical-align: middle;
+
+}
+
+.list-element {
+    padding-bottom: 5px;
 }
 
 /* Colors arguments */
