@@ -107,6 +107,26 @@ h2 {
     font-size: 1em;
 }
 
+.check-entity {
+    height: auto;
+    color: green;
+
+    border-radius: 60%;
+    border: green 2px solid;
+
+    font-size: 0.8em;
+}
+
+.x-entity {
+    height: auto;
+    color: red;
+
+    border-radius: 60%;
+    border: red 2px solid;
+
+    font-size: 0.8em;
+}
+
 h3 {
     display: inline;
     font-size: 0.8em;
