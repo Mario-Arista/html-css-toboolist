@@ -95,12 +95,12 @@ h1 {
 
 h2 {
     display: inline;
-    font-size: 1.5em;
+    font-size: 1em;
 }
 
 h3 {
     display: inline;
-    font-size: 1em;
+    font-size: 0.8em;
 }
 
 .argument {
@@ -109,6 +109,7 @@ h3 {
     width: 70px;
     height: 20px;
 
+    font-size: 0.5em;
     color: white;
 
     text-align: center;
@@ -117,8 +118,30 @@ h3 {
 
 }
 
+/* Colors arguments */
+
 .blue {
     background-color: #45ABE9;
     line-height: 100%;
 
+}
+
+.violet {
+    background-color: #8C66CC;
+}
+
+.green {
+    background-color: #64C0A9;
+}
+
+.orange {
+    background-color: #F29E3F;
+}
+
+.pink {
+    background-color: #D964A1;
+}
+
+.lightgreen {
+    background-color: #AFC93C;
 }
